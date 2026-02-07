@@ -1,5 +1,5 @@
 {
-  "name": "Agent",
+  "name": "MetaInsight",
   "private": true,
   "scripts": {
     "build": "turbo run build",
